@@ -41,7 +41,7 @@
   "bitcoreNode": "bitcore-node-zcoin",
   "insightConfig": {
     "apiPrefix": "insight-api-zcoin",
-    "routePrefix": "insight"
+    "routePrefix": ""
   },
   "scripts": {
     "build": "bower install && grunt compile",
